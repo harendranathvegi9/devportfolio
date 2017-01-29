@@ -5,17 +5,8 @@
 	text-align: center;
 }
 
-
-#links{
+.tabs{
 	background-color: #f7dad2;
-	color: black;
-	border-width: 10px;
-	border-style: solid;
-	border-color: #484e59;
-	padding: 10px;
-	opacity: .88;
-}
-
 }
 
 #top{
@@ -25,20 +16,20 @@
 }
 #name{
 	background-color: #f7dad2;
-	color: black;
+	color: #421431;
 	border-width: 10px;
 	border-style: solid;
-	border-color: #484e59;
+	border-color: #f9efed;
 	padding: 10px;
 	opacity: .88;
 }
 
 #video1{
 	border-style: solid;
-	border-color: #484e59;
+	border-color: #f9efed;
 	border-width: 10px;
 	background-color: #fce3db;
-	color: black;
+	color: #421431;
 	padding: 10px;
 	opacity: .97;
 	margin-top: 8px;
@@ -71,10 +62,10 @@
 
 #biography{
 	background-color: #f7dad2;
-	color: black;
+	color: #421431;
 	border-width: 10px;
 	border-style: solid;
-	border-color: #484e59;
+	border-color: #f9efed;
 	padding: 10px;
 	opacity: .91;
 	text-align: center;
@@ -87,39 +78,38 @@
 
 #contact{
 		background-color: #f7dad2;
-	color: black;
+	color: #421431;
 	border-width: 10px;
 	border-style: solid;
-	border-color: #484e59;
+	border-color: #f9efed;
 	padding: 10px;
 	opacity: .91;
 	text-align: center;
 	font-family: "Marcellus SC", cursive;
 }
 
-#links{
-	background-color: #f7dad2;
-	color: black;
-	border-width: 10px;
-	border-style: solid;
-	border-color: #484e59;
-	padding: 10px;
-	opacity: .91;
-	text-align: center;
-	font-family: "Marcellus SC", cursive;
-	margin-top: 10px;
-}
+
 
 /*CONTACT PAGE END CSS*/
 
 
 /*SKILLS?PROJECTS PAGE CSS START*/
 #techSkills{
-		background-color: #f7dad2;
-	color: black;
+	background-color: #f7dad2;
+	color: #421431;
 	border-width: 10px;
 	border-style: solid;
-	border-color: #484e59;
+	border-color: #f9efed;
+	padding: 10px;
+	opacity: .88;
+}
+
+#projects{
+	background-color: #f7dad2;
+	color: #421431;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #f9efed;
 	padding: 10px;
 	opacity: .88;
 }
