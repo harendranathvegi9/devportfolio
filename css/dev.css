@@ -1,0 +1,113 @@
+/*CSS for landing page*/ /*start*/
+
+.section{
+	font-family: "Marcellus SC", cursive;
+	text-align: center;
+}
+
+#links{
+	background-color: #f7dad2;
+	color: black;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #484e59;
+	padding: 10px;
+	opacity: .88;
+}
+
+}
+
+#top{
+	color: white;
+	font-weight: bold;
+
+}
+#name{
+	background-color: #f7dad2;
+	color: black;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #484e59;
+	padding: 10px;
+	opacity: .88;
+}
+
+#video1{
+	border-style: solid;
+	border-color: #484e59;
+	border-width: 10px;
+	background-color: #fce3db;
+	color: black;
+	padding: 10px;
+	opacity: .97;
+	margin-top: 8px;
+}
+
+/*//text entrance effect start*/
+.typewriter {
+  overflow: hidden; /* Ensures the content is not revealed until the animation */
+  border-right: .15em solid white; /* The typwriter cursor */
+  white-space: nowrap; /* Keeps the content on a single line */
+  margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em; /* Adjust as needed */
+  animation: 
+    typing 3.5s steps(40, end),
+    blink-caret .75s step-end infinite;
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/*//text entrance effect end*/
+
+/*landing page css end*/
+
+
+/*BIO PAGE CSS START*/
+
+#biography{
+	background-color: #f7dad2;
+	color: black;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #484e59;
+	padding: 10px;
+	opacity: .91;
+	text-align: center;
+	font-family: "Handlee", cursive;
+}
+
+/*BIO PAGE END CSS*/
+
+/*CONTACT PAGE START CSS*/
+
+#contact{
+		background-color: #f7dad2;
+	color: black;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #484e59;
+	padding: 10px;
+	opacity: .91;
+	text-align: center;
+	font-family: "Marcellus SC", cursive;
+}
+
+#links{
+	background-color: #f7dad2;
+	color: black;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #484e59;
+	padding: 10px;
+	opacity: .91;
+	text-align: center;
+	font-family: "Marcellus SC", cursive;
+	margin-top: 10px;
+}
+
+/*CONTACT PAGE END CSS*/
+
