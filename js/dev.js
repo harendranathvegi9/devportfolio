@@ -7,8 +7,8 @@
         rotaterator: function(options) {
  
             var defaults = {
-                fadeSpeed: 500,
-                pauseSpeed: 100,
+                fadeSpeed: 800,
+                pauseSpeed: 500,
 				child:null
             };
              
@@ -37,5 +37,5 @@
 })(jQuery);
 
  $(document).ready(function() {
-        $('#rotate').rotaterator({fadeSpeed:500, pauseSpeed:100});
+        $('#rotate').rotaterator({fadeSpeed:800, pauseSpeed:500});
  });
