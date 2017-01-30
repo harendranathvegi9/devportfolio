@@ -10,7 +10,7 @@
  	color: #471832;
  	background-color: #f7dad2;
  	font-style: bold;
- 
+
  }
 
  h4{
@@ -72,6 +72,7 @@
 	opacity: .91;
 	text-align: center;
 	font-family: "Handlee", cursive;
+	margin-bottom: 20px;
 }
 
 /*BIO PAGE END CSS*/
@@ -88,7 +89,7 @@
 	opacity: .91;
 	text-align: center;
 	font-family: "Marcellus SC", cursive;
-	margin-bottom: 15px;
+	margin-bottom: 20px;
 }
 
 
@@ -114,6 +115,7 @@
 	border-color: #f9efed;
 	padding: 10px;
 	opacity: .88;
+	margin-bottom: 20px;
 }
 
 /*   this makes the project links fan out*/
