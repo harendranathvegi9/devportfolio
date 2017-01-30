@@ -8,12 +8,14 @@
 	padding: 10px;
  	font-family: "Marcellus SC", cursive;
  	color: #471832;
- 	background-color: #f7dad2;
+ 	/*background-color: #f7dad2;*/
  	font-style: bold;
 
  }
-button{
+h5{
 	color: #421431;
+	background-color: #f7dad2;
+
 }
 #name{
 	background-color: #f7dad2;
