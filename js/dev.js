@@ -1,5 +1,10 @@
   $.backstretch("images/artsy1.jpg");
 
+  $(document).ready(function(){
+    $(".button-collapse").sideNav();
+  });
+  
+
   //text rotator
 
   (function($){

@@ -4,7 +4,7 @@
 	font-family: "Marcellus SC", cursive;
 	text-align: center;
 }
- .nav-wrapper{
+ #buttonnav{
 	padding: 10px;
  	font-family: "Marcellus SC", cursive;
  	color: #471832;
@@ -12,10 +12,9 @@
  	font-style: bold;
 
  }
-
- h4{
- 	color: #471832;
- }
+button{
+	color: #421431;
+}
 #name{
 	background-color: #f7dad2;
 	color: #421431;
