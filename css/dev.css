@@ -4,7 +4,12 @@
 	font-family: "Marcellus SC", cursive;
 	text-align: center;
 }
-
+ .nav-wrapper{
+	padding: 10px;
+ 	font-family: "Marcellus SC", cursive;
+ 	color: #f9efed;
+ 	background-color: #880e4f;
+ }
 #name{
 	background-color: #f7dad2;
 	color: #421431;
@@ -77,6 +82,7 @@
 	opacity: .91;
 	text-align: center;
 	font-family: "Marcellus SC", cursive;
+	margin-bottom: 15px;
 }
 
 
