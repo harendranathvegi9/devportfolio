@@ -7,13 +7,14 @@
  .nav-wrapper{
 	padding: 10px;
  	font-family: "Marcellus SC", cursive;
- 	color: #f9efed;
- 	background-color: #ffebee;
+ 	color: #471832;
+ 	background-color: #f7dad2;
  	font-style: bold;
+ 
  }
 
- h5{
- 	color: #421431;
+ h4{
+ 	color: #471832;
  }
 #name{
 	background-color: #f7dad2;
