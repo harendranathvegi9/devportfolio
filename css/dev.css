@@ -5,15 +5,6 @@
 	text-align: center;
 }
 
-.tabs{
-	background-color: #f7dad2;
-}
-
-#top{
-	color: white;
-	font-weight: bold;
-
-}
 #name{
 	background-color: #f7dad2;
 	color: #421431;
@@ -89,7 +80,6 @@
 }
 
 
-
 /*CONTACT PAGE END CSS*/
 
 
@@ -113,4 +103,9 @@
 	padding: 10px;
 	opacity: .88;
 }
+
+/*   this makes the project links fan out*/
+
+
+/*END OF SKILLS/PROJECT PAGE CSS*/
 
