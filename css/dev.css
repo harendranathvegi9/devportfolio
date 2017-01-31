@@ -119,11 +119,21 @@ h5{
 	border-color: #f9efed;
 	padding: 10px;
 	opacity: .88;
+	margin-top: 20px;
+}
+
+#webpage{
+	background-color: #f7dad2;
+	color: #421431;
+	border-width: 10px;
+	border-style: solid;
+	border-color: #f9efed;
+	padding: 10px;
+	opacity: .88;
 	margin-bottom: 20px;
 	margin-top: 20px;
 }
 
-/*   this makes the project links fan out*/
 
 
 /*END OF SKILLS/PROJECT PAGE CSS*/
